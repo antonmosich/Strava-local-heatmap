@@ -2,3 +2,5 @@ gpx/*.gpx
 tiles/
 venv/
 *.png
+fit/*.fit
+tags
